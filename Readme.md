@@ -33,7 +33,7 @@ mvn test
 
 Tal y como muestra la siguiente figura
 
-![diagrama UML](class diagram.png)
+![diagrama UML]class-12.png)
 
 
 
